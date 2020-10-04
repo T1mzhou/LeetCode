@@ -4,7 +4,7 @@
 
 | 题号                                                     | 难度 | 题解 |
 | :------------------------------------------------------- | ---- | :--- |
-| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单 |      |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单 | [twoSum](https://github.com/T1mzhou/LeetCode/blob/main/code/twoSum.cpp)|
 |                                                          |      |      |
 |                                                          |      |      |
 
