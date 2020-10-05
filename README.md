@@ -9,7 +9,7 @@
 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 | [lengthOfLongestSubstring](https://github.com/T1mzhou/LeetCode/blob/main/code/lengthOfLongestSubstring.cpp) |
 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 困难 | [findMedianSortedArrays](https://github.com/T1mzhou/LeetCode/blob/main/code/findMedianSortedArrays.cpp) |
 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 中等 | [longestPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/longestPalindrome.cpp) |
-| [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 中等 |                                                              |
+| [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 中等 |[convert](https://github.com/T1mzhou/LeetCode/blob/main/code/convert.cpp)                                                              |
 | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 简单 |                                                              |
 | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 中等 |                                                              |
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 简单 |                                                              |
