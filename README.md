@@ -11,7 +11,7 @@
 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 中等 | [longestPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/longestPalindrome.cpp) |
 | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 中等 |[convert](https://github.com/T1mzhou/LeetCode/blob/main/code/convert.cpp)                                                              |
 | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 简单 |  [reverse](https://github.com/T1mzhou/LeetCode/blob/main/code/reverse.cpp)                                                            |
-| [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 中等 |                                                              |
-| [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 简单 |                                                              |
-| [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 |                                                              |
+| [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 中等 |[myAtoi](https://github.com/T1mzhou/LeetCode/blob/main/code/myAtoi.cpp)                                                              |
+| [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 简单 |[isPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/isPalindrome.cpp)                                                        |
+| [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 | [isMatch](https://github.com/T1mzhou/LeetCode/blob/main/code/isMatch.cpp)                                                             |
 
