@@ -17,5 +17,5 @@
 | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 中等 |   [maxArea](https://github.com/T1mzhou/LeetCode/blob/main/code/11.maxArea.cpp)   |
 | [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 中等 |  [intToRoman](https://github.com/T1mzhou/LeetCode/blob/main/code/12.intToRoman.cpp)        |
 | [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [romanToInt](https://github.com/T1mzhou/LeetCode/blob/main/code/13.romanToInt.cpp)             |
-| [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)| 简单 |[14.longestCommonPrefix](https://github.com/T1mzhou/LeetCode/blob/main/code/longestCommonPrefix.cpp) |
+| [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)| 简单 |[longestCommonPrefix](https://github.com/T1mzhou/LeetCode/blob/main/code/14.longestCommonPrefix.cpp) |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)       | 中等 |   [threeSum](https://github.com/T1mzhou/LeetCode/blob/main/code/15.threeSum.cpp)    |                         
