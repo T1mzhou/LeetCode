@@ -18,8 +18,8 @@
 | [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [romanToInt](https://github.com/T1mzhou/LeetCode/blob/main/code/13.romanToInt.cpp) |
 | [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [longestCommonPrefix](https://github.com/T1mzhou/LeetCode/blob/main/code/14.longestCommonPrefix.cpp) |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)       | 中等 | [threeSum](https://github.com/T1mzhou/LeetCode/blob/main/code/15.threeSum.cpp) |
-| [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 中等 |                                                              |
-| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 中等 |                                                              |
-| [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 中等 |                                                              |
-| [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 |                                                              |
-| [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 |                                                              |
+| [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 中等 |[threeSumClosest](https://github.com/T1mzhou/LeetCode/blob/main/code/16.threeSumClosest.cpp) |
+| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 中等 |[letterCombinations](https://github.com/T1mzhou/LeetCode/blob/main/code/17.letterCombinations.cpp)                                                              |
+| [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 中等 | [fourSum](https://github.com/T1mzhou/LeetCode/blob/main/code/18.fourSum.cpp)         |                             
+| [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [removeNthFromEnd](https://github.com/T1mzhou/LeetCode/blob/main/code/19.removeNthFromEnd.cpp)   |
+| [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 |[isValid](https://github.com/T1mzhou/LeetCode/blob/main/code/20.isValid.cpp)                                                              |
