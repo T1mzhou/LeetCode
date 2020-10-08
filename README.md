@@ -23,8 +23,8 @@
 | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 中等 | [fourSum](https://github.com/T1mzhou/LeetCode/blob/main/code/18.fourSum.cpp) |
 | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [removeNthFromEnd](https://github.com/T1mzhou/LeetCode/blob/main/code/19.removeNthFromEnd.cpp) |
 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [isValid](https://github.com/T1mzhou/LeetCode/blob/main/code/20.isValid.cpp) |
-| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 |                                                              |
-| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 |                                                              |
-| [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 |                                                              |
-| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 |                                                              |
-| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 |                                                              |
+| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [mergeTwoLis](https://github.com/T1mzhou/LeetCode/blob/main/code/21.mergeTwoLists.cpp) |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | [generateParenthesis](https://github.com/T1mzhou/LeetCode/blob/main/code/22.generateParenthesis.cpp) |
+| [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | [mergeKLists](https://github.com/T1mzhou/LeetCode/blob/main/code/23.mergeKLists.cpp) |   
+| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 |[swapPairs](https://github.com/T1mzhou/LeetCode/blob/main/code/24.swapPairs.cpp)  |   
+| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 |[reverseKGroup](https://github.com/T1mzhou/LeetCode/blob/main/code/25.reverseKGroup.cpp)|
