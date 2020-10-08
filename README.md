@@ -29,7 +29,7 @@
 | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 | [swapPairs](https://github.com/T1mzhou/LeetCode/blob/main/code/24.swapPairs.cpp) |
 | [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 | [reverseKGroup](https://github.com/T1mzhou/LeetCode/blob/main/code/25.reverseKGroup.cpp) |
 | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [removeDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/26.removeDuplicates.cpp) |
-| [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 |                                                              |
-| [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 |                                                              |
-| [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 中等 |                                                              |
-| [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | 困难 |                                                              |
+| [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [removeElement](https://github.com/T1mzhou/LeetCode/blob/main/code/27.removeElement.cpp) |
+| [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 |[strStr](https://github.com/T1mzhou/LeetCode/blob/main/code/28.strStr.cpp) |
+| [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 中等 |[divide](https://github.com/T1mzhou/LeetCode/blob/main/code/29.divide.cpp)|
+| [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | 困难 |[findSubstring](https://github.com/T1mzhou/LeetCode/blob/main/code/30.findSubstring.cpp)  |
