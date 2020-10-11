@@ -38,8 +38,8 @@
 | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 中等 | [search](https://github.com/T1mzhou/LeetCode/blob/main/code/33.search.cpp) |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | [searchRange](https://github.com/T1mzhou/LeetCode/blob/main/code/34.searchRange.cpp) |
 | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [searchInsert](https://github.com/T1mzhou/LeetCode/blob/main/code/35.searchInsert.cpp) |
-| [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 中等 |                                                              |
-| [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 |                                                              |
-| [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 |                                                              |
-| [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 |                                                              |
-| [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 中等 |                                                              |
+| [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 中等 |[isValidSudoku](https://github.com/T1mzhou/LeetCode/blob/main/code/36.isValidSudoku.cpp) |
+| [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 |[solveSudoku](https://github.com/T1mzhou/LeetCode/blob/main/code/37.solveSudoku.cpp) |
+| [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 |[countAndSay](https://github.com/T1mzhou/LeetCode/blob/main/code/38.countAndSay.cpp) |
+| [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 | [combinationSum](https://github.com/T1mzhou/LeetCode/blob/main/code/39.combinationSum.cpp) |
+| [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 中等 |[combinationSum2](https://github.com/T1mzhou/LeetCode/blob/main/code/40.combinationSum2.cpp)  |
