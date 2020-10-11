@@ -33,8 +33,13 @@
 | [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [strStr](https://github.com/T1mzhou/LeetCode/blob/main/code/28.strStr.cpp) |
 | [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 中等 | [divide](https://github.com/T1mzhou/LeetCode/blob/main/code/29.divide.cpp) |
 | [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | 困难 | [findSubstring](https://github.com/T1mzhou/LeetCode/blob/main/code/30.findSubstring.cpp) |
-| [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 |[nextPermutation](https://github.com/T1mzhou/LeetCode/blob/main/code/31.nextPermutation.cpp)|
-| [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [longestValidParentheses](https://github.com/T1mzhou/LeetCode/blob/main/code/32.longestValidParentheses.cpp)|
-| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 中等 | [search](https://github.com/T1mzhou/LeetCode/blob/main/code/33.search.cpp)  |
-| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 |[searchRange](https://github.com/T1mzhou/LeetCode/blob/main/code/34.searchRange.cpp) |                           
-| [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 |[searchInsert](https://github.com/T1mzhou/LeetCode/blob/main/code/35.searchInsert.cpp)  |
+| [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | [nextPermutation](https://github.com/T1mzhou/LeetCode/blob/main/code/31.nextPermutation.cpp) |
+| [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [longestValidParentheses](https://github.com/T1mzhou/LeetCode/blob/main/code/32.longestValidParentheses.cpp) |
+| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 中等 | [search](https://github.com/T1mzhou/LeetCode/blob/main/code/33.search.cpp) |
+| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | [searchRange](https://github.com/T1mzhou/LeetCode/blob/main/code/34.searchRange.cpp) |
+| [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [searchInsert](https://github.com/T1mzhou/LeetCode/blob/main/code/35.searchInsert.cpp) |
+| [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 中等 |                                                              |
+| [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 |                                                              |
+| [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 |                                                              |
+| [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 |                                                              |
+| [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 中等 |                                                              |
