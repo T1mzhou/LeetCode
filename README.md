@@ -43,8 +43,13 @@
 | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 | [countAndSay](https://github.com/T1mzhou/LeetCode/blob/main/code/38.countAndSay.cpp) |
 | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 | [combinationSum](https://github.com/T1mzhou/LeetCode/blob/main/code/39.combinationSum.cpp) |
 | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 中等 | [combinationSum2](https://github.com/T1mzhou/LeetCode/blob/main/code/40.combinationSum2.cpp) |
-| [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | 困难 |  [firstMissingPositive](https://github.com/T1mzhou/LeetCode/blob/main/code/41.firstMissingPositive.cpp)  |
-| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 困难 |    [trap](https://github.com/T1mzhou/LeetCode/blob/main/code/42.trap.cpp)     |
-| [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [multiply](https://github.com/T1mzhou/LeetCode/blob/main/code/43.multiply.cpp)  |
-| [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 |[isMatch](https://github.com/T1mzhou/LeetCode/blob/main/code/44.isMatch.cpp)   |
-| [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 困难 | [jump](https://github.com/T1mzhou/LeetCode/blob/main/code/45.jump.cpp)  |
+| [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | 困难 | [firstMissingPositive](https://github.com/T1mzhou/LeetCode/blob/main/code/41.firstMissingPositive.cpp) |
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 困难 | [trap](https://github.com/T1mzhou/LeetCode/blob/main/code/42.trap.cpp) |
+| [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [multiply](https://github.com/T1mzhou/LeetCode/blob/main/code/43.multiply.cpp) |
+| [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [isMatch](https://github.com/T1mzhou/LeetCode/blob/main/code/44.isMatch.cpp) |
+| [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 困难 | [jump](https://github.com/T1mzhou/LeetCode/blob/main/code/45.jump.cpp) |
+| [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 中等 |                                                              |
+| [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 |                                                              |
+| [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 |                                                              |
+| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 |                                                              |
+| [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 中等 |                                                              |
