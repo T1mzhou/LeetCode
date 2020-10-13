@@ -48,8 +48,8 @@
 | [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [multiply](https://github.com/T1mzhou/LeetCode/blob/main/code/43.multiply.cpp) |
 | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [isMatch](https://github.com/T1mzhou/LeetCode/blob/main/code/44.isMatch.cpp) |
 | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 困难 | [jump](https://github.com/T1mzhou/LeetCode/blob/main/code/45.jump.cpp) |
-| [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 中等 |                                                              |
-| [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 |                                                              |
-| [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 |                                                              |
-| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 |                                                              |
-| [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 中等 |                                                              |
+| [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 中等 |[permute](https://github.com/T1mzhou/LeetCode/blob/main/code/46.permute.cpp)|
+| [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 |[permuteUnique](https://github.com/T1mzhou/LeetCode/blob/main/code/47.permuteUnique.cpp) |
+| [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 | [rotate](https://github.com/T1mzhou/LeetCode/blob/main/code/48.rotate.cpp)|
+| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 |[groupAnagrams](https://github.com/T1mzhou/LeetCode/blob/main/code/49.groupAnagrams.cpp)|
+| [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 中等 | [myPow](https://github.com/T1mzhou/LeetCode/blob/main/code/50.myPow.cpp)|
