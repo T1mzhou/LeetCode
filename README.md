@@ -53,9 +53,14 @@
 | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 | [rotate](https://github.com/T1mzhou/LeetCode/blob/main/code/48.rotate.cpp) |
 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | [groupAnagrams](https://github.com/T1mzhou/LeetCode/blob/main/code/49.groupAnagrams.cpp) |
 | [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 中等 | [myPow](https://github.com/T1mzhou/LeetCode/blob/main/code/50.myPow.cpp) |
-| [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 困难 |[solveNQueens](https://github.com/T1mzhou/LeetCode/blob/main/code/51.solveNQueens.cpp)|
-| [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | 困难 |[totalNQueens](https://github.com/T1mzhou/LeetCode/blob/main/code/52.totalNQueens.cpp)|
-| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |[maxSubArray](https://github.com/T1mzhou/LeetCode/blob/main/code/53.maxSubArray.cpp) |
-| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 中等 |[spiralOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/54.spiralOrder.cpp)|
-| [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 中等 |[canJump](https://github.com/T1mzhou/LeetCode/blob/main/code/55.canJump.cpp) |
+| [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 困难 | [solveNQueens](https://github.com/T1mzhou/LeetCode/blob/main/code/51.solveNQueens.cpp) |
+| [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | 困难 | [totalNQueens](https://github.com/T1mzhou/LeetCode/blob/main/code/52.totalNQueens.cpp) |
+| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [maxSubArray](https://github.com/T1mzhou/LeetCode/blob/main/code/53.maxSubArray.cpp) |
+| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 中等 | [spiralOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/54.spiralOrder.cpp) |
+| [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 中等 | [canJump](https://github.com/T1mzhou/LeetCode/blob/main/code/55.canJump.cpp) |
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 中等 |                                                              |
+| [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) | 困难 |                                                              |
+| [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 |                                                              |
+| [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 中等 |                                                              |
+| [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | 困难 |                                                              |
 
