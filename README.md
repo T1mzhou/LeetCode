@@ -63,9 +63,14 @@
 | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [lengthOfLastWord](https://github.com/T1mzhou/LeetCode/blob/main/code/58.lengthOfLastWord.cpp) |
 | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 中等 | [generateMatrix](https://github.com/T1mzhou/LeetCode/blob/main/code/59.generateMatrix.cpp) |
 | [60. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | 困难 | [getPermutation](https://github.com/T1mzhou/LeetCode/blob/main/code/60.getPermutation.cpp) |
-| [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 中等 | [rotateRight](https://github.com/T1mzhou/LeetCode/blob/main/code/61.rotateRight.cpp)|
-| [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 中等 | [uniquePaths](https://github.com/T1mzhou/LeetCode/blob/main/code/62.uniquePaths.cpp)|
-| [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 中等 |[uniquePathsWithObstacles](https://github.com/T1mzhou/LeetCode/blob/main/code/63.uniquePathsWithObstacles.cpp) |
-| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [minPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/64.minPathSum.cpp)|
-| [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 困难 |[isNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/65.isNumber.cpp) |
+| [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 中等 | [rotateRight](https://github.com/T1mzhou/LeetCode/blob/main/code/61.rotateRight.cpp) |
+| [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 中等 | [uniquePaths](https://github.com/T1mzhou/LeetCode/blob/main/code/62.uniquePaths.cpp) |
+| [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 中等 | [uniquePathsWithObstacles](https://github.com/T1mzhou/LeetCode/blob/main/code/63.uniquePathsWithObstacles.cpp) |
+| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [minPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/64.minPathSum.cpp) |
+| [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 困难 | [isNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/65.isNumber.cpp) |
+| [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 简单 |                                                              |
+| [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |                                                              |
+| [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | 困难 |                                                              |
+| [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 简单 |                                                              |
+| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 |                                                              |
 
