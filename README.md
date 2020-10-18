@@ -68,9 +68,14 @@
 | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 中等 | [uniquePathsWithObstacles](https://github.com/T1mzhou/LeetCode/blob/main/code/63.uniquePathsWithObstacles.cpp) |
 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [minPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/64.minPathSum.cpp) |
 | [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 困难 | [isNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/65.isNumber.cpp) |
-| [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 简单 | [plusOne](https://github.com/T1mzhou/LeetCode/blob/main/code/66.plusOne.cpp)|
-| [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 |[addBinary](https://github.com/T1mzhou/LeetCode/blob/main/code/67.addBinary.cpp)|
-| [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | 困难 |[fullJustify](https://github.com/T1mzhou/LeetCode/blob/main/code/68.fullJustify.cpp)|
-| [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 简单 |[mySqrt](https://github.com/T1mzhou/LeetCode/blob/main/code/69.mySqrt.cpp)|
-| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 |[climbStairs](https://github.com/T1mzhou/LeetCode/blob/main/code/70.climbStairs.cpp)|
+| [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 简单 | [plusOne](https://github.com/T1mzhou/LeetCode/blob/main/code/66.plusOne.cpp) |
+| [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 | [addBinary](https://github.com/T1mzhou/LeetCode/blob/main/code/67.addBinary.cpp) |
+| [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | 困难 | [fullJustify](https://github.com/T1mzhou/LeetCode/blob/main/code/68.fullJustify.cpp) |
+| [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 简单 | [mySqrt](https://github.com/T1mzhou/LeetCode/blob/main/code/69.mySqrt.cpp) |
+| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 | [climbStairs](https://github.com/T1mzhou/LeetCode/blob/main/code/70.climbStairs.cpp) |
+| [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 中等 |                                                              |
+| [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 困难 |                                                              |
+| [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 |                                                              |
+| [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 |                                                              |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 中等 |                                                              |
 
