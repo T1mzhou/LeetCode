@@ -73,9 +73,9 @@
 | [68. 文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | 困难 | [fullJustify](https://github.com/T1mzhou/LeetCode/blob/main/code/68.fullJustify.cpp) |
 | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 简单 | [mySqrt](https://github.com/T1mzhou/LeetCode/blob/main/code/69.mySqrt.cpp) |
 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 | [climbStairs](https://github.com/T1mzhou/LeetCode/blob/main/code/70.climbStairs.cpp) |
-| [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 中等 |                                                              |
-| [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 困难 |                                                              |
-| [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 |                                                              |
-| [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 |                                                              |
-| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 中等 |                                                              |
+| [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 中等 |[simplifyPath](https://github.com/T1mzhou/LeetCode/blob/main/code/71.simplifyPath.cpp)|
+| [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 困难 | [minDistance](https://github.com/T1mzhou/LeetCode/blob/main/code/72.minDistance.cpp) |
+| [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 |[setZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/73.setZeroes.cpp)|
+| [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 |[searchMatrix](https://github.com/T1mzhou/LeetCode/blob/main/code/74.searchMatrix.cpp)|
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 中等 |[sortColors](https://github.com/T1mzhou/LeetCode/blob/main/code/75.sortColors.cpp)|
 
