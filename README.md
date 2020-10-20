@@ -78,9 +78,14 @@
 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 | [setZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/73.setZeroes.cpp) |
 | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 | [searchMatrix](https://github.com/T1mzhou/LeetCode/blob/main/code/74.searchMatrix.cpp) |
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 中等 | [sortColors](https://github.com/T1mzhou/LeetCode/blob/main/code/75.sortColors.cpp) |
-| [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 困难 |[minWindow](https://github.com/T1mzhou/LeetCode/blob/main/code/76.minWindow.cpp) |                                          
-| [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 中等 | [combine](https://github.com/T1mzhou/LeetCode/blob/main/code/77.combine.cpp)|
-| [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 中等 | [subsets](https://github.com/T1mzhou/LeetCode/blob/main/code/78.subsets.cpp)|
-| [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [exist](https://github.com/T1mzhou/LeetCode/blob/main/code/79.exist.cpp)|
-| [80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 中等 |[removeDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/80.removeDuplicates.cpp) |                               
+| [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 困难 | [minWindow](https://github.com/T1mzhou/LeetCode/blob/main/code/76.minWindow.cpp) |
+| [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 中等 | [combine](https://github.com/T1mzhou/LeetCode/blob/main/code/77.combine.cpp) |
+| [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 中等 | [subsets](https://github.com/T1mzhou/LeetCode/blob/main/code/78.subsets.cpp) |
+| [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [exist](https://github.com/T1mzhou/LeetCode/blob/main/code/79.exist.cpp) |
+| [80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 中等 | [removeDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/80.removeDuplicates.cpp) |
+| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 |                                                              |
+| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 |                                                              |
+| [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 |                                                              |
+| [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 |                                                              |
+| [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 |                                                              |
 
