@@ -83,9 +83,14 @@
 | [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 中等 | [subsets](https://github.com/T1mzhou/LeetCode/blob/main/code/78.subsets.cpp) |
 | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [exist](https://github.com/T1mzhou/LeetCode/blob/main/code/79.exist.cpp) |
 | [80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 中等 | [removeDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/80.removeDuplicates.cpp) |
-| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 |[search](https://github.com/T1mzhou/LeetCode/blob/main/code/81.search.cpp) |
-| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 |[deleteDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/82.deleteDuplicates.cpp)|
+| [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 | [search](https://github.com/T1mzhou/LeetCode/blob/main/code/81.search.cpp) |
+| [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | [deleteDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/82.deleteDuplicates.cpp) |
 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [deleteDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/83.deleteDuplicates.cpp) |
 | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [largestRectangleArea](https://github.com/T1mzhou/LeetCode/blob/main/code/84.largestRectangleArea.cpp) |
-| [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 |[maximalRectangle](https://github.com/T1mzhou/LeetCode/blob/main/code/85.maximalRectangle.cpp)|
+| [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [maximalRectangle](https://github.com/T1mzhou/LeetCode/blob/main/code/85.maximalRectangle.cpp) |
+| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 |                                                              |
+| [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 |                                                              |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 |                                                              |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 中等 |                                                              |
+| [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | 中等 |                                                              |
 
