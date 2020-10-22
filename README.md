@@ -88,9 +88,14 @@
 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [deleteDuplicates](https://github.com/T1mzhou/LeetCode/blob/main/code/83.deleteDuplicates.cpp) |
 | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [largestRectangleArea](https://github.com/T1mzhou/LeetCode/blob/main/code/84.largestRectangleArea.cpp) |
 | [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [maximalRectangle](https://github.com/T1mzhou/LeetCode/blob/main/code/85.maximalRectangle.cpp) |
-| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 |[partition](https://github.com/T1mzhou/LeetCode/blob/main/code/86.partition.cpp) |
-| [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 |[isScramble](https://github.com/T1mzhou/LeetCode/blob/main/code/87.isScramble.cpp)|
-| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 |[merge](https://github.com/T1mzhou/LeetCode/blob/main/code/88.merge.cpp)|
-| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 中等 |[grayCode](https://github.com/T1mzhou/LeetCode/blob/main/code/89.grayCode.cpp)|
-| [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | 中等 |[subsetsWithDup](https://github.com/T1mzhou/LeetCode/blob/main/code/90.subsetsWithDup.cpp)|
+| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [partition](https://github.com/T1mzhou/LeetCode/blob/main/code/86.partition.cpp) |
+| [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 | [isScramble](https://github.com/T1mzhou/LeetCode/blob/main/code/87.isScramble.cpp) |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [merge](https://github.com/T1mzhou/LeetCode/blob/main/code/88.merge.cpp) |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 中等 | [grayCode](https://github.com/T1mzhou/LeetCode/blob/main/code/89.grayCode.cpp) |
+| [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | 中等 | [subsetsWithDup](https://github.com/T1mzhou/LeetCode/blob/main/code/90.subsetsWithDup.cpp) |
+| [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 中等 |                                                              |
+| [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 |                                                              |
+| [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 |                                                              |
+| [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 |                                                              |
+| [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 |                                                              |
 
