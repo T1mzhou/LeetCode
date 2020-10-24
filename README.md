@@ -104,4 +104,7 @@
 | [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 困难 |                                                              |
 | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 |                                                              |
 | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 |                                                              |
+| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 |                                                              |
+| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 |                                                              |
+| [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 |                                                              |
 
