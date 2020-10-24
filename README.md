@@ -101,10 +101,10 @@
 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 | [numTrees](https://github.com/T1mzhou/LeetCode/blob/main/code/96.numTrees.cpp) |
 | [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 困难 | [isInterleave](https://github.com/T1mzhou/LeetCode/blob/main/code/97.isInterleave.cpp) |
 | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | [isValidBST](https://github.com/T1mzhou/LeetCode/blob/main/code/98.isValidBST.cpp) |
-| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 困难 |                                                              |
-| [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 |                                                              |
-| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 |                                                              |
-| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 |                                                              |
-| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 |                                                              |
-| [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 |                                                              |
+| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 困难 |[recoverTree](https://github.com/T1mzhou/LeetCode/blob/main/code/99.recoverTree.cpp)|
+| [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 |[isSameTree](https://github.com/T1mzhou/LeetCode/blob/main/code/100.isSameTree.cpp) |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 |[isSymmetric](https://github.com/T1mzhou/LeetCode/blob/main/code/101.isSymmetric.cpp)|
+| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 |[levelOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/102.levelOrder.cpp)|
+| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 |[zigzagLevelOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/103.zigzagLevelOrder.cpp)|
+| [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 | [maxDepth](https://github.com/T1mzhou/LeetCode/blob/main/code/104.maxDepth.cpp)|
 
