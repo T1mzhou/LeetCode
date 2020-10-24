@@ -98,7 +98,10 @@
 | [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [restoreIpAddresses](https://github.com/T1mzhou/LeetCode/blob/main/code/93.restoreIpAddresses.cpp) |
 | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [inorderTraversal](https://github.com/T1mzhou/LeetCode/blob/main/code/94.inorderTraversal.cpp) |
 | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 | [generateTrees](https://github.com/T1mzhou/LeetCode/blob/main/code/95.generateTrees.cpp) |
-| [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 |[numTrees](https://github.com/T1mzhou/LeetCode/blob/main/code/96.numTrees.cpp)|
-| [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 困难 |[isInterleave](https://github.com/T1mzhou/LeetCode/blob/main/code/97.isInterleave.cpp) |
-| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 |[isValidBST](https://github.com/T1mzhou/LeetCode/blob/main/code/98.isValidBST.cpp)|
+| [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 | [numTrees](https://github.com/T1mzhou/LeetCode/blob/main/code/96.numTrees.cpp) |
+| [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 困难 | [isInterleave](https://github.com/T1mzhou/LeetCode/blob/main/code/97.isInterleave.cpp) |
+| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | [isValidBST](https://github.com/T1mzhou/LeetCode/blob/main/code/98.isValidBST.cpp) |
+| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 困难 |                                                              |
+| [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 |                                                              |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 |                                                              |
 
