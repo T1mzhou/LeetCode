@@ -107,7 +107,7 @@
 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 | [levelOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/102.levelOrder.cpp) |
 | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 | [zigzagLevelOrder](https://github.com/T1mzhou/LeetCode/blob/main/code/103.zigzagLevelOrder.cpp) |
 | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 | [maxDepth](https://github.com/T1mzhou/LeetCode/blob/main/code/104.maxDepth.cpp) |
-| [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 中等 |[buildTree](https://github.com/T1mzhou/LeetCode/blob/main/code/105.buildTree.cpp) |
+| [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 中等 |[buildTree](https://github.com/T1mzhou/LeetCode/blob/main/code/105.build.cpp) |
 | [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 中等 |[buildTree](https://github.com/T1mzhou/LeetCode/blob/main/code/106.buildTree.cpp)|
 | [107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | 简单 |[levelOrderBottom](https://github.com/T1mzhou/LeetCode/blob/main/code/107.levelOrderBottom.cpp)|
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 |[sortedArrayToBST](https://github.com/T1mzhou/LeetCode/blob/main/code/108.sortedArrayToBST.cpp)|
