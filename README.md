@@ -113,7 +113,9 @@
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 | [sortedArrayToBST](https://github.com/T1mzhou/LeetCode/blob/main/code/108.sortedArrayToBST.cpp) |
 | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 中等 | [sortedListToBST](https://github.com/T1mzhou/LeetCode/blob/main/code/109.sortedListToBST.cpp) |
 | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 简单 | [isBalanced](https://github.com/T1mzhou/LeetCode/blob/main/code/110.isBalanced.cpp) |
-| [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 |[minDepth](https://github.com/T1mzhou/LeetCode/blob/main/code/111.minDepth.cpp)|
-| [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [hasPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/112.hasPathSum.cpp)  |
-| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 |[pathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/113.pathSum.cpp)   |
+| [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | [minDepth](https://github.com/T1mzhou/LeetCode/blob/main/code/111.minDepth.cpp) |
+| [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [hasPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/112.hasPathSum.cpp) |
+| [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 | [pathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/113.pathSum.cpp) |
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 |                                                              |
+| [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 困难 |                                                              |
 
