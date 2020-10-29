@@ -116,6 +116,9 @@
 | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | [minDepth](https://github.com/T1mzhou/LeetCode/blob/main/code/111.minDepth.cpp) |
 | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [hasPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/112.hasPathSum.cpp) |
 | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 | [pathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/113.pathSum.cpp) |
-| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 |[flatten](https://github.com/T1mzhou/LeetCode/blob/main/code/114.flatten.cpp)|
-| [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 困难 |[numDistinct](https://github.com/T1mzhou/LeetCode/blob/main/code/115.numDistinct.cpp)|
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 | [flatten](https://github.com/T1mzhou/LeetCode/blob/main/code/114.flatten.cpp) |
+| [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 困难 | [numDistinct](https://github.com/T1mzhou/LeetCode/blob/main/code/115.numDistinct.cpp) |
+| [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 |                                                              |
+| [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 中等 |                                                              |
+| [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 |                                                              |
 
