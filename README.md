@@ -121,6 +121,6 @@
 | [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 | [connect](https://github.com/T1mzhou/LeetCode/blob/main/code/116.connect.cpp) |
 | [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 中等 | [connect](https://github.com/T1mzhou/LeetCode/blob/main/code/117.connect.cpp) |
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 | [generate](https://github.com/T1mzhou/LeetCode/blob/main/code/118.generate.cpp) |
-| [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 |                                                              |
-| [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 |                                                              |
+| [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 |[getRow](https://github.com/T1mzhou/LeetCode/blob/main/code/119.getRow.cpp)|
+| [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 |[minimumTotal](https://github.com/T1mzhou/LeetCode/blob/main/code/120.minimumTotal.cpp)|
 
