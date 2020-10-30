@@ -118,7 +118,9 @@
 | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 | [pathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/113.pathSum.cpp) |
 | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 | [flatten](https://github.com/T1mzhou/LeetCode/blob/main/code/114.flatten.cpp) |
 | [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 困难 | [numDistinct](https://github.com/T1mzhou/LeetCode/blob/main/code/115.numDistinct.cpp) |
-| [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 |[connect](https://github.com/T1mzhou/LeetCode/blob/main/code/116.connect.cpp)|
-| [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 中等 |[connect](https://github.com/T1mzhou/LeetCode/blob/main/code/117.connect.cpp)|
-| [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 |[generate](https://github.com/T1mzhou/LeetCode/blob/main/code/118.generate.cpp) |
+| [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 | [connect](https://github.com/T1mzhou/LeetCode/blob/main/code/116.connect.cpp) |
+| [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 中等 | [connect](https://github.com/T1mzhou/LeetCode/blob/main/code/117.connect.cpp) |
+| [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 | [generate](https://github.com/T1mzhou/LeetCode/blob/main/code/118.generate.cpp) |
+| [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 |                                                              |
+| [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 |                                                              |
 
