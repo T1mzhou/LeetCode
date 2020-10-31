@@ -123,6 +123,6 @@
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 | [generate](https://github.com/T1mzhou/LeetCode/blob/main/code/118.generate.cpp) |
 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 | [getRow](https://github.com/T1mzhou/LeetCode/blob/main/code/119.getRow.cpp) |
 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 | [minimumTotal](https://github.com/T1mzhou/LeetCode/blob/main/code/120.minimumTotal.cpp) |
-| [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 |                                                              |
-| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 |                                                              |
+| [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 |[maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/121.maxProfit.cpp)|
+| [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 |[maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/122.maxProfit.cpp)|
 
