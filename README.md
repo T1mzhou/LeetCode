@@ -125,7 +125,7 @@
 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 | [minimumTotal](https://github.com/T1mzhou/LeetCode/blob/main/code/120.minimumTotal.cpp) |
 | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 | [maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/121.maxProfit.cpp) |
 | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 | [maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/122.maxProfit.cpp) |
-| [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | 困难 |                                                              |
-| [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | 困难 |                                                              |
-| [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 |                                                              |
+| [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | 困难 |[maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/123.maxProfit.cpp)|
+| [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | 困难 |[maxPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/124.maxPathSum.cpp)|
+| [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 |[isPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/125.isPalindrome.cpp)|
 
