@@ -128,6 +128,6 @@
 | [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | 困难 | [maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/123.maxProfit.cpp) |
 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | 困难 | [maxPathSum](https://github.com/T1mzhou/LeetCode/blob/main/code/124.maxPathSum.cpp) |
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [isPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/125.isPalindrome.cpp) |
-| [126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) | 困难 |                                                              |
-| [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 中等 |                                                              |
+| [126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) | 困难 |[findLadders](https://github.com/T1mzhou/LeetCode/blob/main/code/126.findLadders.cpp)|
+| [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 中等 |[ladderLength](https://github.com/T1mzhou/LeetCode/blob/main/code/127.ladderLength.cpp) |
 
