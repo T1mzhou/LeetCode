@@ -130,7 +130,7 @@
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [isPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/125.isPalindrome.cpp) |
 | [126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) | 困难 | [findLadders](https://github.com/T1mzhou/LeetCode/blob/main/code/126.findLadders.cpp) |
 | [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 中等 | [ladderLength](https://github.com/T1mzhou/LeetCode/blob/main/code/127.ladderLength.cpp) |
-| [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 困难 |                                                              |
-| [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 |                                                              |
-| [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | 中等 |                                                              |
+| [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 困难 |[longestConsecutive](https://github.com/T1mzhou/LeetCode/blob/main/code/128.longestConsecutive.cpp)  |
+| [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 |[sumNumbers](https://github.com/T1mzhou/LeetCode/blob/main/code/129.sumNumbers.cpp) |
+| [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | 中等 |[solve](https://github.com/T1mzhou/LeetCode/blob/main/code/130.solve.cpp)|
 
