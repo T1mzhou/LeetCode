@@ -137,6 +137,6 @@
 | [132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | 困难 | [minCut](https://github.com/T1mzhou/LeetCode/blob/main/code/132.minCut.cpp) |
 | [133. 克隆图](https://leetcode-cn.com/problems/clone-graph/) | 中等 | [cloneGraph](https://github.com/T1mzhou/LeetCode/blob/main/code/133.cloneGraph.cpp) |
 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | 中等 | [canCompleteCircuit](https://github.com/T1mzhou/LeetCode/blob/main/code/134.canCompleteCircuit.cpp) |
-| [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | 困难 |                                                              |
-| [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 |                                                              |
+| [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | 困难 |[candy](https://github.com/T1mzhou/LeetCode/blob/main/code/135.candy.cpp)|
+| [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 |[singleNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/136.singleNumber.cpp)|
 
