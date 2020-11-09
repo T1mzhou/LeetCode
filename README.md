@@ -142,6 +142,8 @@
 | [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | 中等 | [singleNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/137.singleNumber.cpp) |
 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | 中等 | [copyRandomList](https://github.com/T1mzhou/LeetCode/blob/main/code/138.copyRandomList.cpp) |
 | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | 中等 | [wordBreak](https://github.com/T1mzhou/LeetCode/blob/main/code/139.wordBreak.cpp) |
-| [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | 困难 |[wordBreak](https://github.com/T1mzhou/LeetCode/blob/main/code/140.wordBreak.cpp)|
-| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 |[hasCycle](https://github.com/T1mzhou/LeetCode/blob/main/code/141.hasCycle.cpp)|
+| [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | 困难 | [wordBreak](https://github.com/T1mzhou/LeetCode/blob/main/code/140.wordBreak.cpp) |
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [hasCycle](https://github.com/T1mzhou/LeetCode/blob/main/code/141.hasCycle.cpp) |
+| [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 |                                                              |
+| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 |                                                              |
 
