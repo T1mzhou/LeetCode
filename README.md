@@ -146,6 +146,6 @@
 | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [hasCycle](https://github.com/T1mzhou/LeetCode/blob/main/code/141.hasCycle.cpp) |
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [detectCycle](https://github.com/T1mzhou/LeetCode/blob/main/code/142.detectCycle.cpp) |
 | [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 | [reorderList](https://github.com/T1mzhou/LeetCode/blob/main/code/143.reorderList.cpp) |
-| [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 中等 |                                                              |
-| [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | 中等 |                                                              |
+| [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 中等 |[preorderTraversal](https://github.com/T1mzhou/LeetCode/blob/main/code/144.preorderTraversal.cpp)  |
+| [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | 中等 | [postorderTraversal](https://github.com/T1mzhou/LeetCode/blob/main/code/145.postorderTraversal.cpp)|
 
