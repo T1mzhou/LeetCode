@@ -152,6 +152,8 @@
 | [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 中等 | [insertionSortList](https://github.com/T1mzhou/LeetCode/blob/main/code/147.insertionSortList.cpp) |
 | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 | [sortList](https://github.com/T1mzhou/LeetCode/blob/main/code/148.sortList.cpp) |
 | [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | 困难 | [maxPoints](https://github.com/T1mzhou/LeetCode/blob/main/code/149.maxPoints.cpp) |
-| [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 中等 |[evalRPN](https://github.com/T1mzhou/LeetCode/blob/main/code/150.evalRPN.cpp)|
-| [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | 中等 |[reverseWords](https://github.com/T1mzhou/LeetCode/blob/main/code/151.reverseWords.cpp)|
+| [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 中等 | [evalRPN](https://github.com/T1mzhou/LeetCode/blob/main/code/150.evalRPN.cpp) |
+| [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | 中等 | [reverseWords](https://github.com/T1mzhou/LeetCode/blob/main/code/151.reverseWords.cpp) |
+| [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | 中等 |                                                              |
+| [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 |                                                              |
 
