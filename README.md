@@ -156,6 +156,6 @@
 | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | 中等 | [reverseWords](https://github.com/T1mzhou/LeetCode/blob/main/code/151.reverseWords.cpp) |
 | [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | 中等 | [maxProduct](https://github.com/T1mzhou/LeetCode/blob/main/code/152.maxProduct.cpp) |
 | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 | [findMin](https://github.com/T1mzhou/LeetCode/blob/main/code/153.findMin.cpp) |
-| [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 |                                                              |
-| [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 简单 |                                                              |
+| [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 |[MinStack](https://github.com/T1mzhou/LeetCode/blob/main/code/154.MinStack.cpp)|
+| [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 简单 |[findMin](https://github.com/T1mzhou/LeetCode/blob/main/code/155.findMin.cpp)|
 
