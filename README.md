@@ -158,6 +158,6 @@
 | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 | [findMin](https://github.com/T1mzhou/LeetCode/blob/main/code/153.findMin.cpp) |
 | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难|[findMin](https://github.com/T1mzhou/LeetCode/blob/main/code/154.findMin.cpp)|
 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 简单 |[MinStack](https://github.com/T1mzhou/LeetCode/blob/main/code/155.MinStack.cpp)|
-| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 ||
-| [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 ||
+| [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 |[getIntersectionNode](https://github.com/T1mzhou/LeetCode/blob/main/code/160.getIntersectionNode.cpp)|
+| [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 |[findPeakElement](https://github.com/T1mzhou/LeetCode/blob/main/code/162.findPeakElement.cpp)|
 
