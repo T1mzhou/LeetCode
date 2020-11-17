@@ -160,4 +160,6 @@
 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 简单 |[MinStack](https://github.com/T1mzhou/LeetCode/blob/main/code/155.MinStack.cpp)|
 | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 |[getIntersectionNode](https://github.com/T1mzhou/LeetCode/blob/main/code/160.getIntersectionNode.cpp)|
 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 |[findPeakElement](https://github.com/T1mzhou/LeetCode/blob/main/code/162.findPeakElement.cpp)|
+| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) | 困难 ||
+| [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 ||
 
