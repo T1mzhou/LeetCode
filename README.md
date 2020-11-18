@@ -162,6 +162,6 @@
 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 |[findPeakElement](https://github.com/T1mzhou/LeetCode/blob/main/code/162.findPeakElement.cpp)|
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) | 困难 |[maximumGap](https://github.com/T1mzhou/LeetCode/blob/main/code/164.maximumGap.cpp)|
 | [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 |[compareVersion](https://github.com/T1mzhou/LeetCode/blob/main/code/165.compareVersion.cpp)|
-| [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | 中等 ||
-| [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 ||
+| [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | 中等 |[fractionToDecimal](https://github.com/T1mzhou/LeetCode/blob/main/code/166.fractionToDecimal.cpp)|
+| [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 |[twoSum](https://github.com/T1mzhou/LeetCode/blob/main/code/167.twoSum.cpp)|
 
