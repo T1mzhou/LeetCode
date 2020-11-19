@@ -164,6 +164,6 @@
 | [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 |[compareVersion](https://github.com/T1mzhou/LeetCode/blob/main/code/165.compareVersion.cpp)|
 | [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | 中等 |[fractionToDecimal](https://github.com/T1mzhou/LeetCode/blob/main/code/166.fractionToDecimal.cpp)|
 | [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 |[twoSum](https://github.com/T1mzhou/LeetCode/blob/main/code/167.twoSum.cpp)|
-| [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 ||
-| [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 ||
+| [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 |[convertToTitle](https://github.com/T1mzhou/LeetCode/blob/main/code/168.convertToTitle.cpp)|
+| [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/169.majorityElement.cpp)|
 
