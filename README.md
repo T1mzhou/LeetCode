@@ -166,6 +166,6 @@
 | [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 |[twoSum](https://github.com/T1mzhou/LeetCode/blob/main/code/167.twoSum.cpp)|
 | [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 |[convertToTitle](https://github.com/T1mzhou/LeetCode/blob/main/code/168.convertToTitle.cpp)|
 | [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/169.majorityElement.cpp)|
-| [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 ||
-| [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 ||
+| [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 |[titleToNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/171.titleToNumber.cpp)|
+| [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 |[trailingZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/172.trailingZeroes.cpp)|
 
