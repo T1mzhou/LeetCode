@@ -168,6 +168,6 @@
 | [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/169.majorityElement.cpp)|
 | [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 |[titleToNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/171.titleToNumber.cpp)|
 | [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 |[trailingZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/172.trailingZeroes.cpp)|
-| [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 ||
-| [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 ||
+| [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 |[BSTIterator](https://github.com/T1mzhou/LeetCode/blob/main/code/173.BSTIterator.cpp)|
+| [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 |[calculateMinimumHP](https://github.com/T1mzhou/LeetCode/blob/main/code/174.calculateMinimumHP.cpp)|
 
