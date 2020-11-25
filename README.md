@@ -172,6 +172,6 @@
 | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 |[calculateMinimumHP](https://github.com/T1mzhou/LeetCode/blob/main/code/174.calculateMinimumHP.cpp)|
 | [179. 最大数](https://leetcode-cn.com/problems/largest-number/) | 中等 |[largestNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/179.largestNumber.cpp)|
 | [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 |[maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/188.maxProfit.cpp)|
-| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 ||
-| [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 ||
+| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 |[rotate](https://github.com/T1mzhou/LeetCode/blob/main/code/189.rotate.cpp)|
+| [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 |[reverseBits](https://github.com/T1mzhou/LeetCode/blob/main/code/190.reverseBits.cpp)|
 
