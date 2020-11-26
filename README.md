@@ -174,4 +174,6 @@
 | [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 |[maxProfit](https://github.com/T1mzhou/LeetCode/blob/main/code/188.maxProfit.cpp)|
 | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 |[rotate](https://github.com/T1mzhou/LeetCode/blob/main/code/189.rotate.cpp)|
 | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 |[reverseBits](https://github.com/T1mzhou/LeetCode/blob/main/code/190.reverseBits.cpp)|
+| [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 ||
+| [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 ||
 
