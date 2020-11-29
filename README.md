@@ -176,6 +176,6 @@
 | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 |[reverseBits](https://github.com/T1mzhou/LeetCode/blob/main/code/190.reverseBits.cpp)|
 | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 |[rotate](https://github.com/T1mzhou/LeetCode/blob/main/code/189.rotate.cpp)|
 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 |[hammingWeight](https://github.com/T1mzhou/LeetCode/blob/main/code/191.hammingWeight.cpp)|
-| [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 ||
-| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 中等 ||
+| [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 |[rightSideView](https://github.com/T1mzhou/LeetCode/blob/main/code/199.rightSideView.cpp)|
+| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 中等 |[numIslands](https://github.com/T1mzhou/LeetCode/blob/main/code/200.numIslands.cpp)|
 
