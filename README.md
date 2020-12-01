@@ -178,6 +178,6 @@
 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 |[hammingWeight](https://github.com/T1mzhou/LeetCode/blob/main/code/191.hammingWeight.cpp)|
 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 |[rightSideView](https://github.com/T1mzhou/LeetCode/blob/main/code/199.rightSideView.cpp)|
 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 中等 |[numIslands](https://github.com/T1mzhou/LeetCode/blob/main/code/200.numIslands.cpp)|
-| [201. 数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | 中等 ||
-| [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 ||
+| [201. 数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | 中等 |[rangeBitwiseAnd](https://github.com/T1mzhou/LeetCode/blob/main/code/201.rangeBitwiseAnd.cpp)|
+| [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 |[isHappy](https://github.com/T1mzhou/LeetCode/blob/main/code/202.isHappy.cpp)|
 
