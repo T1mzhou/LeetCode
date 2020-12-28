@@ -193,4 +193,5 @@
 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 中等 |[findKthLargest](https://github.com/T1mzhou/LeetCode/blob/main/code/215.findKthLargest.cpp)|
 | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | 中等 |[combinationSum3](https://github.com/T1mzhou/LeetCode/blob/main/code/216.combinationSum3.cpp)|
 | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | 中等 |[containsDuplicate](https://github.com/T1mzhou/LeetCode/blob/main/code/217.containsDuplicate.cpp)|
+| [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 ||
 
