@@ -196,5 +196,5 @@
 | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 |[containsNearbyDuplicate](https://github.com/T1mzhou/LeetCode/blob/main/code/219.containsNearbyDuplicate.cpp)|
 | [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 |[containsNearbyAlmostDuplicate](https://github.com/T1mzhou/LeetCode/blob/main/code/220.containsNearbyAlmostDuplicate.cpp)|
 | [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 |[countNodes](https://github.com/T1mzhou/LeetCode/blob/main/code/222.countNodes.cpp)|
-| [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | 简单 ||
+| [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | 简单 |[MyStack](https://github.com/T1mzhou/LeetCode/blob/main/code/225.MyStack.cpp)|
 
