@@ -1,15 +1,24 @@
 class Solution {
 public:
-    // 双指针
-    vector<string> summaryRanges(vector<int>& nums) {
-        vector<string> res;
-        for (int i = 0; i < nums.size(); i++) {
-            int j = i + 1;
-            while (j < nums.size() && nums[j] == nums[j-1] + 1) j++;
-            if (j == i + 1) res.push_back(to_string(nums[i]));
-            else res.push_back(to_string(nums[i]) + "->" + to_string(nums[j - 1]));
-            i = j - 1;
+    // 摩尔投票法推广
+    vector<int> majorityElement(vector<int>& nums) {
+        int r1,r2 ,c1 = 0, c2 = 0;
+        for (auto x : nums) {
+            if (c1 && x == r1) c1++;
+            else if (c2 && x == r2) c2++;
+            else if (!c1) r1 = x, c1++;
+            else if (!c2) r2 = x, c2++;
+            else c1--, c2--;
         }
+        c1 = 0, c2 = 0;
+        for (auto x : nums) {
+            if (x == r1) c1++;
+            else if (x == r2) c2++;
+        }
+
+        vector<int> res;
+        if (c1 > nums.size() / 3) res.push_back(r1);
+        if (c2 > nums.size() / 3) res.push_back(r2);
         return res;
     }
 };
