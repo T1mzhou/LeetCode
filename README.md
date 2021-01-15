@@ -200,5 +200,5 @@
 | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 |[invertTree](https://github.com/T1mzhou/LeetCode/blob/main/code/226.invertTree.cpp)|
 | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 中等 |[calculate](https://github.com/T1mzhou/LeetCode/blob/main/code/227.calculate.cpp)|
 | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | 简单 |[summaryRanges](https://github.com/T1mzhou/LeetCode/blob/main/code/228.summaryRanges.cpp)|
-| [229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | 中等 ||
+| [229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | 中等 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/229.majorityElement.cpp)|
 
