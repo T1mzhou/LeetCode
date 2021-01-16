@@ -201,4 +201,5 @@
 | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 中等 |[calculate](https://github.com/T1mzhou/LeetCode/blob/main/code/227.calculate.cpp)|
 | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | 简单 |[summaryRanges](https://github.com/T1mzhou/LeetCode/blob/main/code/228.summaryRanges.cpp)|
 | [229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | 中等 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/229.majorityElement.cpp)|
+| [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 中等 ||
 
