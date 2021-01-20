@@ -203,4 +203,5 @@
 | [229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | 中等 |[majorityElement](https://github.com/T1mzhou/LeetCode/blob/main/code/229.majorityElement.cpp)|
 | [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 中等 |[kthSmallest](https://github.com/T1mzhou/LeetCode/blob/main/code/230.kthSmallest.cpp)|
 | [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/) | 简单 |[isPowerOfTwo](https://github.com/T1mzhou/LeetCode/blob/main/code/231.isPowerOfTwo.cpp)|
+| [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | 简单 ||
 
