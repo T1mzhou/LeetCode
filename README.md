@@ -206,4 +206,5 @@
 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | 简单 |[MyQueue](https://github.com/T1mzhou/LeetCode/blob/main/code/232.MyQueue.cpp)|
 | [233. 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/) | 困难 |[countDigitOne](https://github.com/T1mzhou/LeetCode/blob/main/code/233.countDigitOne.cpp)|
 | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 简单 |[isPalindrome](https://github.com/T1mzhou/LeetCode/blob/main/code/234.isPalindrome.cpp)|
+| [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 ||
 
