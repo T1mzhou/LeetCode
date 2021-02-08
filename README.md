@@ -212,5 +212,5 @@
 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | 中等 |[productExceptSelf](https://github.com/T1mzhou/LeetCode/blob/main/code/238.productExceptSelf.cpp)|
 | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 困难 |[maxSlidingWindow](https://github.com/T1mzhou/LeetCode/blob/main/code/239.maxSlidingWindow.cpp)|
 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 中等 |[searchMatrix](https://github.com/T1mzhou/LeetCode/blob/main/code/240.searchMatrix.cpp)|
-| [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 ||
+| [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 |[isAnagram](https://github.com/T1mzhou/LeetCode/blob/main/code/242.isAnagram.cpp)|
 
