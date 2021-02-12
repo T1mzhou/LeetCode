@@ -214,5 +214,5 @@
 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 中等 |[searchMatrix](https://github.com/T1mzhou/LeetCode/blob/main/code/240.searchMatrix.cpp)|
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 |[isAnagram](https://github.com/T1mzhou/LeetCode/blob/main/code/242.isAnagram.cpp)|
 | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 |[binaryTreePaths](https://github.com/T1mzhou/LeetCode/blob/main/code/257.binaryTreePaths.cpp)|
-| [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 ||
+| [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 |[addDigit](https://github.com/T1mzhou/LeetCode/blob/main/code/258.addDigit.cpp)|
 
