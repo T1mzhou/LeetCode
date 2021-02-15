@@ -216,4 +216,5 @@
 | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 |[binaryTreePaths](https://github.com/T1mzhou/LeetCode/blob/main/code/257.binaryTreePaths.cpp)|
 | [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 |[addDigit](https://github.com/T1mzhou/LeetCode/blob/main/code/258.addDigit.cpp)|
 | [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | 中等 |[singleNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/260.singleNumber.cpp)|
+| [263. 丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 ||
 
