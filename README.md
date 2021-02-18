@@ -217,5 +217,5 @@
 | [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 |[addDigit](https://github.com/T1mzhou/LeetCode/blob/main/code/258.addDigit.cpp)|
 | [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | 中等 |[singleNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/260.singleNumber.cpp)|
 | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 |[isUgly](https://github.com/T1mzhou/LeetCode/blob/main/code/263.isUgly.cpp)|
-| [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 ||
+| [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 |[nthUglyNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/264.nthUglyNumber.cpp)|
 
