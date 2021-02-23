@@ -220,4 +220,5 @@
 | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 |[nthUglyNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/264.nthUglyNumber.cpp)|
 | [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/) | 简单 |[missingNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/268.missingNumber.cpp)|
 | [274. H 指数](https://leetcode-cn.com/problems/h-index/) | 中等 |[hIndex](https://github.com/T1mzhou/LeetCode/blob/main/code/274.hIndex.cpp)|
+| [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | 中等 ||
 
