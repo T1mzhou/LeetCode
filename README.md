@@ -221,5 +221,5 @@
 | [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/) | 简单 |[missingNumber](https://github.com/T1mzhou/LeetCode/blob/main/code/268.missingNumber.cpp)|
 | [274. H 指数](https://leetcode-cn.com/problems/h-index/) | 中等 |[hIndex](https://github.com/T1mzhou/LeetCode/blob/main/code/274.hIndex.cpp)|
 | [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | 中等 |[hIndex](https://github.com/T1mzhou/LeetCode/blob/main/code/275.hIndex.cpp)|
-| [[278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 简单 ||
+| [[278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 简单 |[firstBadVersion](https://github.com/T1mzhou/LeetCode/blob/main/code/278.firstBadVersion.cpp)|
 
