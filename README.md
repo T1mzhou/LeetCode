@@ -222,5 +222,5 @@
 | [274. H 指数](https://leetcode-cn.com/problems/h-index/) | 中等 |[hIndex](https://github.com/T1mzhou/LeetCode/blob/main/code/274.hIndex.cpp)|
 | [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | 中等 |[hIndex](https://github.com/T1mzhou/LeetCode/blob/main/code/275.hIndex.cpp)|
 | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 |[firstBadVersion](https://github.com/T1mzhou/LeetCode/blob/main/code/278.firstBadVersion.cpp)|
-| [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 ||
+| [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 |[numSquares](https://github.com/T1mzhou/LeetCode/blob/main/code/279.numSquares.cpp)|
 
