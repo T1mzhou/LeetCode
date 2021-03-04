@@ -224,4 +224,5 @@
 | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 |[firstBadVersion](https://github.com/T1mzhou/LeetCode/blob/main/code/278.firstBadVersion.cpp)|
 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 |[numSquares](https://github.com/T1mzhou/LeetCode/blob/main/code/279.numSquares.cpp)|
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 |[moveZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/283.moveZeroes.cpp)|
+| [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/) | 中等 ||
 
