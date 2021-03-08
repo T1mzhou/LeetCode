@@ -225,5 +225,5 @@
 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 |[numSquares](https://github.com/T1mzhou/LeetCode/blob/main/code/279.numSquares.cpp)|
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 |[moveZeroes](https://github.com/T1mzhou/LeetCode/blob/main/code/283.moveZeroes.cpp)|
 | [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/) | 中等 |[PeekingIterator](https://github.com/T1mzhou/LeetCode/blob/main/code/284.PeekingIterator.cpp)|
-| [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 中等 ||
+| [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 中等 |[findDuplicate](https://github.com/T1mzhou/LeetCode/blob/main/code/287.findDuplicate.cpp)|
 
