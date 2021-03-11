@@ -227,5 +227,5 @@
 | [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/) | 中等 |[PeekingIterator](https://github.com/T1mzhou/LeetCode/blob/main/code/284.PeekingIterator.cpp)|
 | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 中等 |[findDuplicate](https://github.com/T1mzhou/LeetCode/blob/main/code/287.findDuplicate.cpp)|
 | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) | 中等 |[gameOfLife](https://github.com/T1mzhou/LeetCode/blob/main/code/289.gameOfLife.cpp)|
-| [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | 简单 ||
+| [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | 简单 |[wordPattern](https://github.com/T1mzhou/LeetCode/blob/main/code/290.wordPattern.cpp)|
 
